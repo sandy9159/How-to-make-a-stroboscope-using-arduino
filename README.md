@@ -1,6 +1,6 @@
 # How-to-make-a-stroboscope-using-arduino
 
-# DIY-Arduno-based-Stroboscope
+
 
 ![image](https://user-images.githubusercontent.com/19898602/145040969-2d15bcf9-3bef-4045-8acd-17edc7089ab6.png)
 
